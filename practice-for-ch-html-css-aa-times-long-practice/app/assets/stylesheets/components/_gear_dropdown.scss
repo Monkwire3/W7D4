@@ -1,0 +1,11 @@
+// Use the gear_dropdown.png screenshot as a style guide
+#gear-button {
+    all: unset;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+    background-image: image-url('gear-solid.svg');
+    background-color: gainsboro;
+    border-radius: 3px;
+
+}
